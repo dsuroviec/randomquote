@@ -1,0 +1,42 @@
+html {
+  background-color: #05386b;
+  font-family: sans;
+}
+
+.container {
+  max-width: 70%;
+  margin: auto;
+  height: auto;
+  border-radius: 30px;
+  background-color: #8de4af;
+  margin-top: 100px;
+}
+
+.quote-box {
+  height: 300px;
+  text-align: center;
+}
+.quote {
+  padding-top: 100px;
+  color: #05396b;
+  text-align: center;
+}
+
+p {
+  text-align: right;
+  margin-right: 20px;
+}
+
+.btnDiv {
+  text-align: center;
+}
+
+button {
+  margin-top: 70px;
+  width: 300px;
+  border-radius: 5px;
+  background-color: #5cdb96;
+  font-weight: bold;
+  color: #05396b;
+  font-size: 25px;
+}
